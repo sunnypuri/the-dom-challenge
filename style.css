@@ -120,6 +120,7 @@ body {
 .card__unit-stats {
   color: white;
   font-weight: 700;
+  display: flex;
   /* border-bottom-left-radius: 14px;
   border-bottom-right-radius: 14px; */
 }
