@@ -170,3 +170,8 @@ body {
   height: 0;
 }
 
+.challenge-link {
+  text-decoration: none;
+  color: #5170ff;
+  cursor: auto;  
+}
